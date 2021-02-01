@@ -4,18 +4,17 @@
 ##### [Week 1](https://github.com/IDMNYU/webDev_A_Spring2021/wiki/Week-01)
 * Intro to Course
 * What is the web?
-* Intro to GitHub
-
-
-##### [Week 2 ]
+* Intro to GitHub - class admin
 * Intro to HTML
-* Discuss Ways of Seeing
 * Intro to Unix + the Command Line
+
+##### [Week 2 ] - Ways of Seeing
+* Discuss Ways of Seeing
+* Git and Git Pages
 
 #### 💻 Part 2 - Interaction Design for the Web w/ CSS
 
 ##### [Week 3]
-* Git and Git Pages
 * Intro to CSS
 * HTML Box Model
 

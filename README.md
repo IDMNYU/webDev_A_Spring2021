@@ -15,7 +15,7 @@ Course Wiki: https://github.com/IDMNYU/webDev_A_Spring2021/wiki
 #### Course Pe-requisites:
 Basic computer knowledge. Familiarity with programming is preferred but not required.
 
-#### [Course Schedule](schedule.md) and [Course Syllabus](week01/DM-UY_2193_S2021_Leopold.pdf)
+#### [Course Schedule](schedule.md) and [Course Syllabus](week01/DM-UY_2193-A_S2021_Leopold.pdf) and [Course wiki](https://github.com/IDMNYU/webDev_A_Spring2021/wiki)
 
 #### Course Description:
 This course is an introduction to viewer (client) side programming. The semester is scheduled in sequence to enable incremental understanding and application of best practices for authoring the web. This course will provide a basic understanding of the methods and techniques of developing a simple to moderately complex front end site. Students will create and maintain websites that take into consideration aesthetic quality, user experience and technical expertise. Participants will explore granular techniques for design and programming using: HTML5, CSS3, EcmaScript6 and various external libraries.
