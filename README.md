@@ -9,7 +9,6 @@ Monday + Wednesday 6:00-7:50 pm | IDM - Room 311 + ONLINE
 ```
 Professor: rebecca (marks) leopold
 Email: rebleo [at] nyu.edu | office hours by appointment. Please schedule 24 hours in advance.
-Course Wiki: https://github.com/IDMNYU/webDev_A_Spring2021/wiki
 ```
 
 #### Course Pe-requisites:
