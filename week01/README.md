@@ -28,3 +28,20 @@
 ###### Web Dev Texts + Tutorials - JavaScript
 * [MDN Intro to JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
 * [Eloquent JavaScript](https://eloquentjavascript.net/)
+
+###### [Unix Commands](http://mally.stanford.edu/~sr/computing/basic-unix.html)
+* cd - change directory
+  * cd .. - go back a level
+* pwd - present working directory (where am i!)
+* ls - list items in the directory
+* rm - delete item **FOREVER**
+* mkdir - create a new directory
+  * mkdir webDev
+* mv - move file
+  * mv index.html webDev
+* touch - make a file only works on macs :(
+  * touch index.html
+  * cat > index.html
+  * echo > index.html
+  * echo "here is a line of txt" > theTxt.txt
+* [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics)
