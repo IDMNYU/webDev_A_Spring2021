@@ -1,3 +1,13 @@
+##### General work flow for saving and pushing your work back to github:
+
+```
+git status
+git add .
+git commit -m "I am saving my work. This is my commit message."
+git status
+git push origin master
+```
+
 ###### Basic Web Info
 * [What is a URL?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_URL)
 
