@@ -8,6 +8,15 @@ git status
 git push origin master
 ```
 
+##### Terminal commands for prototyping:
+You'll use a Python or Node.js module that creates a server using an open TCP port
+* Mac persons: python -m SimpleHTTPServer or python -m http-server
+* Windows persons: node htto-server AFTER you download and install the below resources:
+  * [Node.js](https://nodejs.org/en/)
+  * [Node Packet Manager](https://www.npmjs.com/)
+  * [http-server package](https://www.npmjs.com/package/http-server)
+
+
 ###### Basic Web Info
 * [What is a URL?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_URL)
 
