@@ -1,3 +1,21 @@
+##### Git commands for publishing your work to github:
+
+```
+git status
+git add .
+git commit -m "I am saving my work. This is my commit message."
+git status
+git push origin master
+```
+
+##### Terminal commands for prototyping:
+You'll use a Python or Node.js module that creates a server using an open TCP port
+* Mac persons: python -m SimpleHTTPServer or python -m http.server
+* Windows persons: node http-server AFTER you download and install the below resources:
+  * [Node.js](https://nodejs.org/en/)
+  * [Node Packet Manager](https://www.npmjs.com/)
+  * [http-server package](https://www.npmjs.com/package/http-server)
+
 ### Intro CSS
  * [CSS Syntax Validation](https://jigsaw.w3.org/css-validator/#validate_by_uri)
  * [MDN Intro CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)

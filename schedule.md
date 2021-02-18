@@ -8,25 +8,35 @@
 * Intro to HTML
 * Intro to Unix + the Command Line
 
-##### [Week 2 ] - Ways of Seeing
+##### [Week 2](https://github.com/IDMNYU/webDev_A_Spring2021/wiki/Week-02)- Ways of Seeing
+* Intro to HTML
 * Discuss Ways of Seeing
+* Intro to Unix + the Command Line
 * Git and Git Pages
 
 #### 💻 Part 2 - Interaction Design for the Web w/ CSS
 
-##### [Week 3]
-* Intro to CSS
+##### [Week 3](https://github.com/IDMNYU/webDev_A_Spring2021/wiki/Week-03)
+* HTML
 * HTML Box Model
+* Intro to CSS
 
-##### [Week 4]
-* Net.Art Presentations
-
-##### [Week 5
+##### [Week 4](https://github.com/IDMNYU/webDev_A_Spring2021/wiki/Week-04)
+* CSS Positioning
 * Responsive Web 
   * Flex Display
   * Grid Display
+* Interactive Self Portraits
+
+##### [Week 5](https://github.com/IDMNYU/webDev_A_Spring2021/wiki/Week-05)
+* Net.Art Pair Programming Presentations
 
 ##### [Week 6]
+* Midterm Project Pitches
+
+##### [Week 7]
+* Midterm Project User Testing 
+* Midterms Due
 
 #### 💻 Part 3 - Programming in the Browser 
 #####
