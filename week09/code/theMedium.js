@@ -2,7 +2,8 @@ console.log("the message is here!");
 
 //global variable are useful in front end web 
 // bc you can query the Chrome console for them
-let theBody, theTxt;
+let theBody;
+let theTxt;
 
 // pass the body of the DOM into a variable
 theBody = document.querySelector("body");
@@ -24,6 +25,10 @@ function myGreatFunction(){
 // Es6 arrow notiona
 document.addEventListener('keydown', theEvent => {
     console.log("key pressed!");
+ 
     // theTxt.style.backgroundColor = "pink";
 
 })
+
+// let event = new KeyboardEvent('key');
+
