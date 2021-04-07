@@ -1,3 +1,4 @@
+##### [Assignment 8 Prompt + JQ Resources](https://github.com/IDMNYU/webDev_A_Spring2021/tree/main/week11)
 ##### More E6 Resources
 * [ES 6 Arrow Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 * [MDN - Equality comparisions + sameness](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness)
