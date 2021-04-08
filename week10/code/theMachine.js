@@ -7,7 +7,7 @@ $('h3').on("click", function() {
 
 
 
-$('#myButton').on('click', potato);
+$("#myButton").on('click', potato);
 
 function potato() {
     console.log("potato click!");
