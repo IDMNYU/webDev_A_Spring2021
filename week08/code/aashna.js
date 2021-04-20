@@ -74,7 +74,6 @@ function draw() {
 
 
 
-
 //Inspiration Credits:
 // Kaleidoscope Snowflake
 // The Coding Train / Daniel Shiffman
