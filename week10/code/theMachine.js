@@ -11,7 +11,7 @@ $("#myButton").on('click', potato);
 
 function potato() {
     console.log("potato click!");
-    $('h3').append(theP);
+    $('h3').append(theP)
     $('h4').append("<p>"+ theP + "</p>");
   
 }
